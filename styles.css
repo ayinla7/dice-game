@@ -1,0 +1,21 @@
+body{
+  background-color: wheat;
+
+}
+.huge{
+  font-size: 5rem;
+}
+.row{
+  text-align: center;
+  margin: 100px 0px;
+}
+
+.dice1, .dice2{
+  margin: 40px auto;
+  border-radius: 10px;
+  color: white;
+  background-color: red;
+}
+.p1 , .p1{
+  background-color: red;
+}
